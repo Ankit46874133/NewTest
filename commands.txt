@@ -6,3 +6,4 @@ git pull
 git fetch
 git push
 new commands from here
+command from local
